@@ -1,5 +1,5 @@
 <h1 align="center">Hello 😁, I'm Sii Yew Hei</h1>
-<h3 align="center">A frontend developer from Malaysia</h3>
+<h3 align="center">A software developer and ERP software engineer from Malaysia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
