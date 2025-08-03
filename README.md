@@ -54,9 +54,6 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 - Research and analyze ESG investment strategies using quantitative methods
 - Bridge technical implementation with business requirements and compliance needs
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
 ### 🌟 Featured Projects
 - 🏛️ **LHDN E-Invoice Integration** - Custom BC connector achieving 100% Malaysia compliance
 - 📊 **ESG Investment Analysis Platform** - Python-based analytics for Asia-Pacific markets
