@@ -40,7 +40,7 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 
 ### 🏢 Professional Highlights
 - **15+ Business Central Customizations** - Led implementations across finance, sales, and project modules
-- **100% LHDN Compliance** - Spearheaded Malaysia e-Invoice compliance for 5+ clients
+- **100% LHDN Compliance** - Act as main contributor in Malaysia e-Invoice compliance for 10+ clients
 - **Published Researcher** - Q1 journal publication with 8 citations and media coverage
 - **$2T+ Market Analysis** - ESG investment research across Asia-Pacific markets
 - **60% Process Improvement** - Reduced manual processing through automation
