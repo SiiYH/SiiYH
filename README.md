@@ -59,9 +59,7 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 - **LHDN E-Invoice Integration** - Custom BC connector achieving 100% Malaysia compliance
 - **ESG Investment Analysis Platform** - Python-based analytics for Asia-Pacific markets
 - **BC CI/CD Pipeline Templates** - Automated deployment solutions for Business Central
-- **Financial Data Integration Suite** - Real-time APIs with Refinitiv and Bloomberg
-- **Modern ERP Dashboard** - React-based interface for Business Central data
-- **Research Data Pipeline** - Automated processing of 10+ years financial datasets
+- **Modern and Simple Web Page** - html-css interface for retail buyer to enter data and post data to Business Central table
 
 ### 📫 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/yewheisii/
