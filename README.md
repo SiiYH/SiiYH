@@ -5,6 +5,13 @@
 Software Developer with unique ERP domain expertise and proven research background. I combine technical skills in modern web development with deep understanding of enterprise business processes, specializing in Microsoft Dynamics 365 Business Central and data-driven financial solutions. Published researcher in Q1 (top-tier) finance journal with proven ability to bridge technical implementation with real business needs.
 
 ### 🔧 Tech Stack
+
+**Cloud & DevOps:**
+- Azure DevOps, CI/CD Pipelines
+- OAuth2 Authentication
+- SaaS Environment Deployment
+- Azure Function, Azure Key Vault
+
 **Frontend Development:**
 - HTML5, CSS3, JavaScript (ES6+)
 - React, Flutter
@@ -21,12 +28,6 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 - NAV, AL Language
 - Custom Extensions & Modules
 - LHDN E-Invoice Compliance
-
-**Cloud & DevOps:**
-- Azure DevOps, CI/CD Pipelines
-- OAuth2 Authentication
-- SaaS Environment Deployment
-- Azure Function, Azure Key Vault
 
 **Data & Research:**
 - Python (Pandas), Statistical Analysis
