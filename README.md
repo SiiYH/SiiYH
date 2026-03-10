@@ -1,6 +1,6 @@
 # Hi there, I'm Sii Yew Hei 👋
 
-## 🚀 Software Developer | ERP Technical Consultant | Published Researcher
+## Software Developer | ERP Technical Consultant | Cloud Enthusiasm
 
 Software Developer with unique ERP domain expertise and proven research background. I combine technical skills in modern web development with deep understanding of enterprise business processes, specializing in Microsoft Dynamics 365 Business Central and data-driven financial solutions. Published researcher in Q1 (top-tier) finance journal with proven ability to bridge technical implementation with real business needs.
 
@@ -50,8 +50,6 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 ### 💼 What I Do
 - Develop custom Business Central solutions with AL extensions and integrations
 - Build automated CI/CD pipelines for Business Central SaaS deployments
-- Create data-driven financial applications using Python and modern web technologies
-- Design REST API integrations with financial data providers (Refinitiv, Bloomberg)
 - Research and analyze ESG investment strategies using quantitative methods
 - Bridge technical implementation with business requirements and compliance needs
 
