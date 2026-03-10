@@ -2,7 +2,7 @@
 
 ## 🚀 Software Developer | ERP Technical Consultant | Published Researcher
 
-Software Developer with unique ERP domain expertise and proven research background. I combine technical skills in modern web development with deep understanding of enterprise business processes, specializing in Microsoft Dynamics 365 Business Central and data-driven financial solutions. Published researcher in top-tier finance journal with proven ability to bridge technical implementation with real business needs.
+Software Developer with unique ERP domain expertise and proven research background. I combine technical skills in modern web development with deep understanding of enterprise business processes, specializing in Microsoft Dynamics 365 Business Central and data-driven financial solutions. Published researcher in Q1 (top-tier) finance journal with proven ability to bridge technical implementation with real business needs.
 
 ### 🔧 Tech Stack
 **Frontend Development:**
@@ -26,6 +26,7 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 - Azure DevOps, CI/CD Pipelines
 - OAuth2 Authentication
 - SaaS Environment Deployment
+- Azure Function, Azure Key Vault
 
 **Data & Research:**
 - Python (Pandas), Statistical Analysis
@@ -66,7 +67,7 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 - 💼 LinkedIn: https://www.linkedin.com/in/yewheisii/
 - 📧 Email: syewhei@gmail.com
 - 📍 Location: Kuala Lumpur
-- 📄 Published Research: [Q1 Journal - 8 Citations](https://doi.org/10.1016/j.ribaf.2023.102008)
+- 📄 Published Research: [Q1 Journal - 15 Citations](https://doi.org/10.1016/j.ribaf.2023.102008)
 
 ---
 *"Bridging the gap between cutting-edge technology and real-world business impact through ERP solutions and data-driven insights"*
