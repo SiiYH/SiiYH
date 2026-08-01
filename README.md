@@ -64,7 +64,7 @@ Software Developer with unique ERP domain expertise and proven research backgrou
 - 💼 LinkedIn: https://www.linkedin.com/in/yewheisii/
 - 📧 Email: syewhei@gmail.com
 - 📍 Location: Kuala Lumpur
-- 📄 Published Research: [Q1 Journal - 15 Citations](https://doi.org/10.1016/j.ribaf.2023.102008)
+- 📄 Published Research: [Q1 Journal - 19 Citations](https://doi.org/10.1016/j.ribaf.2023.102008)
 
 ---
 *"Bridging the gap between cutting-edge technology and real-world business impact through ERP solutions and data-driven insights"*
