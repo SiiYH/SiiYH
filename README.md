@@ -1,6 +1,6 @@
-# Hi there, I'm Sii Yew Hei 👋
+# Hi there, I'm Sii Yew Hei
 
-## Software Developer | ERP Technical Consultant | Cloud Enthusiasm
+## Cloud Engineer | Software Developer
 
 Software Developer with unique ERP domain expertise and proven research background. I combine technical skills in modern web development with deep understanding of enterprise business processes, specializing in Microsoft Dynamics 365 Business Central and data-driven financial solutions. Published researcher in Q1 (top-tier) finance journal with proven ability to bridge technical implementation with real business needs.
 
